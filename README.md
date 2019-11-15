@@ -21,5 +21,8 @@ python create_data.py
 ```
 # Reference
 https://github.com/qianrenjian/text_matching (各种开源实现)
+
 https://zhuanlan.zhihu.com/p/39920446 (方法介绍)
+
 https://blog.csdn.net/u012526436/article/details/90179466 （归纳总结）
+
